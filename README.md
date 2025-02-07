@@ -36,3 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwejeanluc&" alt="ishimwejeanluc" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishimwejeanluc&show_icons=true&locale=en&layout=compact" alt="ishimwejeanluc" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishimwejeanluc" alt="ishimwejeanluc" /></a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishimwejeanluc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
