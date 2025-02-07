@@ -1,5 +1,5 @@
-<h1>I’m Ishimwe Jean Luc, a passionate Software Developer and Full-Stack Engineer who loves solving problems and building impactful software. 🚀</h1>
-<p>When I’m not coding, you can find me exploring new tech trends or working on personal projects. Feel free to check out my work and reach out — I’m always up for a good challenge! ✨</p>
+<h1>Hi,I’m Ishimwe Jean Luc 🚀</h1>
+<p>A passionate Software Developer and Full-Stack Engineer who loves solving problems and building impactful software. 🚀When I’m not coding, you can find me exploring new tech trends or working on personal projects. Feel free to check out my work and reach out — I’m always up for a good challenge! ✨</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
