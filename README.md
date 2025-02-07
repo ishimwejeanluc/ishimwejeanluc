@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishimwejeanluc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <h1>Hi,I’m Ishimwe Jean Luc 🚀</h1>
 <p>A passionate Software Developer and Full-Stack Engineer who loves solving problems and building impactful software. 🚀When I’m not coding, you can find me exploring new tech trends or working on personal projects. Feel free to check out my work and reach out — I’m always up for a good challenge! ✨</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -36,7 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwejeanluc&" alt="ishimwejeanluc" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishimwejeanluc&show_icons=true&locale=en&layout=compact" alt="ishimwejeanluc" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishimwejeanluc" alt="ishimwejeanluc" /></a></p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishimwejeanluc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
